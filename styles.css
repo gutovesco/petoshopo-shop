@@ -59,17 +59,18 @@ html, body {
     padding-top: 20px;
 }
 .cat-home-image{
-    width: 330px;
-    height: 330px;
-    justify-content: center;
-    align-items: center;
+    float: left;
+    height: 150px;
+    width: 150px;
+    margin: 15px;
+    border-radius: 50%;
 }
 .band-name-large {
     font-size: 8em;
 }
 
 .container {
-    max-width: 900px;
+    max-width: 1700px;
     margin: 0 auto;
     padding: 0 1.5em;
 }
@@ -77,6 +78,8 @@ html, body {
     font-weight: lighter;
     color: #333;
     font-size: 1.5em;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 .about-band-image {
