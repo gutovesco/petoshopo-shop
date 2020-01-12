@@ -177,10 +177,12 @@ html, body {
 .shop-item-image {
     height: 250px;
     width: 350px;
+    border-radius: 50%;
 }
 .shop-item-image2 {
     height: 250px;
     width: 300px;
+    border-radius: 50%;
 }
 .shop-item-details {
     display: flex;
