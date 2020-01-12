@@ -176,8 +176,12 @@ html, body {
 
 .shop-item-image {
     height: 250px;
+    width: 350px;
 }
-
+.shop-item-image2 {
+    height: 250px;
+    width: 300px;
+}
 .shop-item-details {
     display: flex;
     align-items: center;
