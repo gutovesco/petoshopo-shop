@@ -65,6 +65,12 @@ html, body {
     margin: 15px;
     border-radius: 50%;
 }
+.pic1{
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 500px;
+}
 .band-name-large {
     font-size: 8em;
 }
